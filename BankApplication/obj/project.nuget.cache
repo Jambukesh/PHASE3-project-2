@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxVG7wbtYzzvVplDz/fBfOxF3NNhfaN/jYjAycRypVTQ5e4gMtSLqmmHRx1BUBtLLXsDksiKKAsa/RSTZAibLA==",
+  "success": true,
+  "projectFilePath": "E:\\mphasis\\problem statement\\PHASE3\\Simply Learn Projects\\project2\\BankApplication\\BankApplication\\BankApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bioz\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

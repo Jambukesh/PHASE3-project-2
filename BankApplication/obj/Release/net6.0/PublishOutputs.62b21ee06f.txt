@@ -1,0 +1,7 @@
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\BankApplication.exe
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\BankApplication.dll
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\BankApplication.deps.json
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\BankApplication.runtimeconfig.json
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project2\BankApplication\BankApplication\obj\Release\net6.0\PubTmp\Out\BankApplication.pdb
